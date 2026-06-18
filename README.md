@@ -25,7 +25,7 @@ I added some quotes as silkscreen art.
 
 ## BOM
 
-[bom](bom.csv)
+![bom](bom.csv)
 
 ## Zine
 
