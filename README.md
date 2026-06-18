@@ -23,6 +23,10 @@ I added some quotes as silkscreen art.
 
 ## Case
 
+I designed this in Fusion, using my PCB as a guide. It has holes for M3 screws so the bottom and top parts hold together. You can find the files in the CAD folder.
+
+![case](assets/case.png)
+
 ## BOM
 
 For a more detailed BOM, take a look at [BOM](bom.csv). It has links to the items and notes.
