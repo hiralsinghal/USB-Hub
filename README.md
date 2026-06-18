@@ -25,6 +25,8 @@ I added some quotes as silkscreen art.
 
 ## BOM
 
+[bom](bom.csv)
+
 ## Zine
 
 ## Why did I make it?
