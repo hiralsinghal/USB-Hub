@@ -1653,16 +1653,10 @@
 		(uuid "1ce725bf-18d9-463a-88cf-06cfe24ad84d")
 	)
 	(junction
-		(at 87.63 97.79)
+		(at 83.82 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "209c23e5-9a19-4fc3-a81c-a1f5814fab60")
-	)
-	(junction
-		(at 87.63 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4c3c0d78-55d3-4950-a50b-fe697d013e47")
+		(uuid "39857bde-3f59-475d-b1dd-d93974850f95")
 	)
 	(junction
 		(at 91.44 97.79)
@@ -1774,7 +1768,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 105.41) (xy 87.63 105.41)
+			(xy 83.82 105.41) (xy 91.44 105.41)
 		)
 		(stroke
 			(width 0)
@@ -1961,16 +1955,6 @@
 			(type default)
 		)
 		(uuid "30bcefd5-8957-4f5e-a518-d2d6acf2c528")
-	)
-	(wire
-		(pts
-			(xy 87.63 97.79) (xy 91.44 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3722809c-f2cc-46b2-984e-6713f1ebb134")
 	)
 	(wire
 		(pts
@@ -2304,17 +2288,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 105.41) (xy 91.44 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "99045c26-e5cd-4ec7-821b-d8ae6cd1897d")
-	)
-	(wire
-		(pts
-			(xy 83.82 97.79) (xy 87.63 97.79)
+			(xy 83.82 97.79) (xy 91.44 97.79)
 		)
 		(stroke
 			(width 0)
@@ -7919,7 +7893,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 87.63 101.6 0)
+		(at 83.82 101.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7929,7 +7903,7 @@
 		(dnp no)
 		(uuid "f11962a7-55b0-4df4-8823-f1c612b9e664")
 		(property "Reference" "C6"
-			(at 86.106 100.33 0)
+			(at 82.296 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7940,7 +7914,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 84.582 103.632 0)
+			(at 80.772 103.632 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7951,7 +7925,7 @@
 			)
 		)
 		(property "Footprint" "Capacitors:CAPC1005X55N"
-			(at 88.5952 105.41 0)
+			(at 84.7852 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7962,7 +7936,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 87.63 101.6 0)
+			(at 83.82 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7973,7 +7947,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 87.63 101.6 0)
+			(at 83.82 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
