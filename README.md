@@ -4,7 +4,7 @@ This is a USB hub. It has a USB-C port to connect to the device. It has two USB-
 
 ## Features
 
-- USB-C as input
+- USB-C port to form the connection between the hub and your device.
 - 2 USB-A ports
 - 2 USB-C ports
 
@@ -43,6 +43,10 @@ For a more detailed BOM, take a look at [BOM](bom.csv). It has links to the item
 
 
 ## Zine
+
+This was designed in Figma. It wasn't easy to make. I had no ideas. I was stuck. Its not my best work.
+
+![zine](assets/zine.png)
 
 ## Why did I make it?
 
