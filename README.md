@@ -14,6 +14,24 @@ This is the schematic for the USB hub. It has an IC, which makes the hub work.
 
 ![schematic](assets/schematic.png)
 
+### Upstream Port
+
+![upstream port schematic](assets/upstream-port.png)
+
+### Integrated Circuit
+
+![integrated circuit schematic](assets/integrated-circuit.png)
+
+### Downstream Ports
+
+#### USB-A
+
+![downstream usb-a ports schematic](assets/usb-a-downstream.png)
+
+#### USB-C
+
+![downstream usb-c ports schematic](assets/usb-c-downstream.png)
+
 ## PCB
 
 Its just a rounded rectangle shaped PCB and has two mounting holes, so it can be screwed into the case.
@@ -37,6 +55,7 @@ For a more detailed BOM, take a look at [BOM](bom.csv). It has links to the item
 | CoreChips SL2.1s | USB 2.0 HUB Controller Integrated Circuit | 5 | 0.2534 | 1.27 |
 | SHOU HAN 10.0 QHHTZB6.3 | CONN RCPT USB 2.0 Type-A 4POS SMD R/A | 10 | 0.0636 | 0.64 |
 | SHOU HAN TYPE-C 16PIN 2MD(073) | CONN RCPT Type-C 16POS SMD R/A | 20 | 0.0707 | 1.41 |
+| ElecSuper USBLC6-2SC6-ES | ESD DIODE 5VWM 15VC SOT-23-6L | 20 | 0.0278 | 0.56 |
 | 10k Resistor SMD:R 0402 | Resistor | 6 | 0.0083 | 0.0498 |
 | 0.1uf Capacitor SMD:C 0402 | Capacitor | 11 | 0.011 | 0.121 |
 | <b>Total</b> | | | | 8.5908 |
