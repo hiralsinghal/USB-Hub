@@ -10,7 +10,7 @@ This is a USB hub. It has a USB-C port to connect to the device. It has two USB-
 
 ## Schematic
 
-This is the schematic for the USB hub. It has an IC, which makes the hub work.
+This is the schematic for the USB hub. It has an IC, which makes the hub work. 
 
 ![schematic](assets/schematic.png)
 
@@ -39,7 +39,7 @@ I added some quotes as silkscreen art.
 
 ![pcb](assets/pcb.png)
 
-### No zones
+**No zones**
 
 ![pcb with no filled zones](assets/pcb-no-zones.png)
 
