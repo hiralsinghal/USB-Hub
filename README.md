@@ -34,10 +34,14 @@ This is the schematic for the USB hub. It has an IC, which makes the hub work.
 
 ## PCB
 
-Its just a rounded rectangle shaped PCB and has two mounting holes, so it can be screwed into the case.
+Its just a rounded rectangle shaped PCB and has three mounting holes, so it can be screwed into the case.
 I added some quotes as silkscreen art.
 
 ![pcb](assets/pcb.png)
+
+### No zones
+
+![pcb with no filled zones](assets/pcb-no-zones.png)
 
 ## Case
 
