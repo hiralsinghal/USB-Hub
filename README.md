@@ -64,6 +64,13 @@ For a more detailed BOM, take a look at [BOM](bom.csv). It has links to the item
 | 0.1uf Capacitor SMD:C 0402 | Capacitor | 11 | 0.011 | 0.121 |
 | <b>Total</b> | | | | 8.0508 |
 
+## Assembly
+
+- Solder the components to the PCB.
+- Print the case.
+- Screw the PCB and the bottom case together so its stable.
+- Screw the bottom and top case together.
+- You have your USB hub!
 
 ## Zine
 
